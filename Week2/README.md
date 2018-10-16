@@ -10,25 +10,15 @@ Commands:
   
   while -> while loop
  
- 
 Syntax:
- 
   Every line has to end with ;
- 
   clear:
- 
-   clear "variable name";
- 
+    clear "variable name";
   incr:
- 
-   incr "variable name";
- 
+    incr "variable name";
   decr:
- 
     decr "variable name";
- 
   while:
- 
     while "variable name" not <intiger> do;
  
     .

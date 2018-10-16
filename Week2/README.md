@@ -12,19 +12,16 @@ Commands:
  
 Syntax:
   Every line has to end with ;
+  
   clear:
     clear "variable name";
+    
   incr:
     incr "variable name";
+    
   decr:
     decr "variable name";
+    
   while:
     while "variable name" not <intiger> do;
- 
-    .
- 
-    .
-  
-    .
- 
     ends;
